@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "5f15d8852a025143f9593a7c"
+  },
+  "image": "http://localhost:3000/public/uploads/mazerunner.jpg",
+  "brand": "Thriller",
+  "price": 250,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": false,
+  "name": "Maze Runner",
+  "description": "is a 2014 American dystopian science fiction film directed by Wes Ball, in his directorial debut, based on James Dashner's 2009 novel of the same name. The film is the first installment in The Maze Runner film series and was produced by Ellen Goldsmith-Vein, Wyck Godfrey, Marty Bowen, and Lee Stollman with a screenplay by Noah Oppenheim, Grant Pierce Myers, and T.S. Nowlin. The film stars Dylan O'Brien, Kaya Scodelario, Aml Ameen, Thomas Brodie-Sangster, Ki Hong Lee, Will Poulter, and Patricia Clarkson.",
+  "category": {
+    "$oid": "5f15d54cf3a046427a1c26e3"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 8,
+  "__v": 0,
+  "richDescription": "'",
+  "images": [
+    "http://localhost:3000/public/uploads/5f15d8852a025143f9593a7c-1604665316399.png",
+    "http://localhost:3000/public/uploads/5f15d8852a025143f9593a7c-1604665316400.jpeg"
+  ]
+},{
+  "_id": {
+    "$oid": "5f15d9b3e520d44421ed8e9d"
+  },
+  "image": "http://localhost:3000/public/uploads/alchemist.jpg",
+  "brand": "Alchemist",
+  "price": 490.9,
+  "rating": 3,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "The Alchemist",
+  "description": "The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller\n",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 5,
+  "__v": 0,
+  "richDescription": "",
+  "images": [
+    "http://localhost:3000/public/uploads/5f15d9b3e520d44421ed8e9d-1604699042286.jpeg",
+    "http://localhost:3000/public/uploads/5f15d9b3e520d44421ed8e9d-1604699042286.jpeg",
+    "http://localhost:3000/public/uploads/5f15d9b3e520d44421ed8e9d-1604699042287.jpeg",
+    "http://localhost:3000/public/uploads/5f15d9b3e520d44421ed8e9d-1604699042288.jpeg"
+  ]
+},{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "http://localhost:3000/public/uploads/fios.jpg",
+  "brand": "Romance",
+  "price": 2000,
+  "rating": 4,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "The fault in our stars",
+  "description": "The Fault In Our Stars was inspired by his friendship with Esther Earl, who redefined the process of dying young for me.",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 2,
+  "__v": 0,
+  "richDescription": "",
+  "images": [
+    "http://localhost:3000/public/uploads/5f15da13e520d44421ed8e9e-1604698334080.jpeg",
+    "http://localhost:3000/public/uploads/5f15da13e520d44421ed8e9e-1604698334082.jpeg",
+    "http://localhost:3000/public/uploads/5f15da13e520d44421ed8e9e-1604698334084.jpeg",
+    "http://localhost:3000/public/uploads/5f15da13e520d44421ed8e9e-1604698334086.jpeg"
+  ]
+},{
+  "_id": {
+    "$oid": "5f15da135420d44443ed8e9e"
+  },
+  "image": "http://localhost:3000/public/uploads/it.jpg",
+  "brand": "Horror ",
+  "price": 2200,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "It",
+  "description": "It is a 1986 horror novel by American author Stephen King. It was his 22nd book and his 17th novel written under his own name. The story follows the experiences of seven children as they are terrorized by an evil entity that exploits the fears of its victims to disguise itself while hunting its prey",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 2,
+  "__v": 0,
+  "images": [
+    "http://localhost:3000/public/uploads/5f15da135420d44443ed8e9e-1604698716796.jpeg",
+    "http://localhost:3000/public/uploads/5f15da135420d44443ed8e9e-1604698716798.jpeg",
+    "http://localhost:3000/public/uploads/5f15da135420d44443ed8e9e-1604698716799.jpeg",
+    "http://localhost:3000/public/uploads/5f15da135420d44443ed8e9e-1604698716800.jpeg"
+  ],
+  "richDescription": ""
+},{
+  "_id": {
+    "$oid": "5f15da135420d44456ed8e9e"
+  },
+  "image": "http://localhost:3000/public/uploads/life after life.jpg",
+  "brand": "Non-Fiction",
+  "price": 3000,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Life after life",
+  "description": "Life After Life is a 1975 book written by psychiatrist Raymond Moody. It is a report on a qualitative study in which Moody interviewed 150 people who had undergone near-death experiences. The book presents the author's composite account of what it is like to die, supplemented with individual accounts.",
+  "category": {
+    "$oid": "5f15d54cf3a046427a1c26e3"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 7,
+  "__v": 0,
+  "richDescription": "<h2>Lenovo ThinkPad X1 Carbon 7</h2><p>The miniature Lenovo ThinkPad X laptop does everything you need it to do.&nbsp;<strong>The hybrid's carbon and metal chassis&nbsp;guarantees durability and extremely low weight.&nbsp;</strong>The Lenovo ThinkPad X1 Carbon 7 boasts a configuration that makes it ideal for students and other users who require good computer performance.. Better yet, all this power and speed is packed into a nicely compact body. The device incorporates a powerful and efficient quad-core&nbsp;<strong>Intel Core i5&nbsp;processor</strong>. For your data there is a respectably large SSD that speeds up the entire system.&nbsp;<strong>The notebook is also equipped with a backlit keyboard&nbsp;for comfortable night time work.&nbsp;</strong>A fast fingerprint reader ensures top-notch security. Also worth mentioning is the preinstalled Windows 10 Pro operating system.</p><h2>Key Features of the 14\" Lenovo ThinkPad X1 Carbon 7 Mini Notebook</h2><ul><li>Painstakingly designed metal and carbon construction</li><li><strong>Lenovo ThinkPad X&nbsp;laptop is equipped with a&nbsp;14\"&nbsp;display</strong></li><li>IPS panel technology with Full HD resolution</li><li>Intel Core i5 8265U Whiskey Lake processor</li><li><strong>512GB&nbsp;SSD capacity</strong></li><li>Backlit keyboard</li><li>Fingerprint reader for quick and easy login</li><li>Lenovo ThinkPad X1 Carbon 7 Laptop is powered by Windows 10 Pro</li><li>The notebook's battery can last up to 18,3 hr(s)</li><li>Mobile internet connection thanks to the integrated 4G/LTE modem</li><li>Easy docking station connection</li><li>Classy black chassis colour</li><li>Weight: 1.09kg</li><li>Lenovo notebook dimensions: 323.5 × 14.9 × 217.1mm</li></ul><p><br></p>",
+  "images": [
+    "http://localhost:3000/public/uploads/5f15da135420d44456ed8e9e-1604665545871.jpeg",
+    "http://localhost:3000/public/uploads/5f15da135420d44456ed8e9e-1604665545872.jpeg",
+    "http://localhost:3000/public/uploads/5f15da135420d44456ed8e9e-1604665545875.jpeg"
+  ]
+},{
+  "_id": {
+    "$oid": "5f68fd316170530b7e0afc54"
+  },
+  "image": "http://localhost:3000/pusblic/uploads/afteryou.jpeg",
+  "brand": "Romance",
+  "price": 23,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": false,
+  "name": "After You",
+  "description": "After You is a romance novel written by Jojo Moyes. It is a sequel to Me Before You. The book was first published on 29 September 2015 in the United Kingdom. A third novel in the series, Still Me, was published in January 2018.",
+  "category": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "countInStock": 10,
+  "__v": 0,
+  "images": [
+    "http://localhost:3000/public/uploads/5f68fd316170530b7e0afc54-1604696288820.jpeg",
+    "http://localhost:3000/public/uploads/5f68fd316170530b7e0afc54-1604696288824.jpeg",
+    "http://localhost:3000/public/uploads/5f68fd316170530b7e0afc54-1604696288826.jpeg",
+    "http://localhost:3000/public/uploads/5f68fd316170530b7e0afc54-1604696288828.jpeg"
+  ],
+  "richDescription": ""
+},{
+  "_id": {
+    "$oid": "5f691406c7e42c1d374fee5c"
+  },
+  "image": "http://localhost:3000/public/uploads/wallflower.jpeg",
+  "brand": "Drama",
+  "price": 3000,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": false,
+  "name": "The perks of being a wallflower",
+  "description": "The Perks of Being a Wallflower is a coming-of-age epistolary novel by American writer Stephen Chbosky, which was first published on February 1, 1999, by Pocket Books. Set in the early 1990s, the novel follows Charlie, an introverted and observant child, through his freshman year of high school in a Pittsburgh suburb",
+  "category": {
+    "$oid": "5f15d467f3a046427a1c26e1"
+  },
+  "countInStock": 8,
+  "__v": 0,
+  "richDescription": "",
+  "images": [
+    "http://localhost:3000/public/uploads/5f691406c7e42c1d374fee5c-1604697613631.jpeg",
+    "http://localhost:3000/public/uploads/5f691406c7e42c1d374fee5c-1604697613634.jpeg",
+    "http://localhost:3000/public/uploads/5f691406c7e42c1d374fee5c-1604697613635.jpeg"
+  ]
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5f15d467f3a046427a1c26e1"
+  },
+  "name": "Thriller",
+  "__v": 0,
+  "color": "#F0E4E1",
+  "icon": "book"
+},{
+  "_id": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "name": "Romance",
+  "__v": 0,
+  "color": "#F0E8DE",
+  "icon": "book"
+},{
+  "_id": {
+    "$oid": "5f15d54cf3a046427a1c26e3"
+  },
+  "name": "Horror",
+  "__v": 0,
+  "color": "#E1F0E7",
+  "icon": "book"
+},{
+  "_id": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "name": "Drama",
+  "__v": 0,
+  "color": "#E2E1F0",
+  "icon": "book"
+},{
+  "_id": {
+    "$oid": "5f9d7e938680aa1d979d7e19"
+  },
+  "name": "Non-Fiction",
+  "__v": 0,
+  "color": "#ffb8b8",
+  "icon": "book"
+}]
